@@ -33,7 +33,6 @@ Me chamo Carlos Eduardo da Silva Oliveira, tenho 19 anos e sou natural de Minas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDZsilva)](https://github.com/anuraghazra/github-readme-stats)
 <img 
     align="left" 
     alt="JavaScript" 
@@ -67,13 +66,13 @@ Me chamo Carlos Eduardo da Silva Oliveira, tenho 19 anos e sou natural de Minas 
         alt="GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=KDZsilva&show_icons=true&theme=tokyonight" 
+        src="https://github-readme-stats-kappa-plum.vercel.app/api?username=KDZsilva&show_icons=true&theme=tokyonight" 
     />
     <img 
         align="left" 
         alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDZsilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        height="200"
+        src="https://github-readme-stats-kappa-plum.vercel.app/api/top-langs/?username=KDZsilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
 <!--
