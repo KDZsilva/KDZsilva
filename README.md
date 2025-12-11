@@ -5,13 +5,7 @@
 Me chamo Carlos Eduardo da Silva Oliveira, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando o curso de Ciências Exatas na UFJF.
 
 <p>
-    <a href="https://github.com/KDZsilva?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/KDZsilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDZsilva)](https://github.com/anuraghazra/github-readme-stats)
     <a href="https://github.com/KDZsilva?tab=followers">
         <img 
             alt="Seguidores" 
