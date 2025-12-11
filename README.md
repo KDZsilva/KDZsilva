@@ -66,7 +66,7 @@ Me chamo Carlos Eduardo da Silva Oliveira, tenho 19 anos e sou natural de Minas 
         alt="GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
-        src="https://github-readme-stats-kappa-plum.vercel.app/api?username=KDZsilva&show_icons=true&theme=tokyonight" 
+        src="https://github-readme-stats-kappa-plum.vercel.app/api?username=KDZsilva&show_icons=true&theme=tokyonight&cache_seconds=3600" 
     />
     <img 
         align="left" 
